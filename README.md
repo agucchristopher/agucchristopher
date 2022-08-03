@@ -1,5 +1,11 @@
-- 👋 Hi, I’m Agu C. Christopher
-- 👀 I’m interested in Web Development, Mobile Development and Blockchain
-- 🌱 I’m currently learning React.js and React Native
-- 💞️ I’m looking to collaborate on Web3
-- 📫 How to reach me facebook
+Hi, I’m Agu C. Christopher
+# Skills
+- Website Development,
+- Mobile App Development 
+# Tools
+- React Native, 
+- Expo, 
+- React.js, 
+- Javascript, 
+- Php, 
+- Mysql
