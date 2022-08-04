@@ -3,13 +3,6 @@ Hi, I’m Agu C. Christopher
 - Website Development,
 - Mobile App Development 
 # Tools
-- React Native, 
-- Expo, 
-- React.js, 
-- Javascript, 
-- Php, 
-- Mysql,
-- Python
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -21,7 +14,7 @@ Hi, I’m Agu C. Christopher
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"> 
