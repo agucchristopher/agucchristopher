@@ -47,4 +47,6 @@ style="vertical-align:top; margin: 4px">
   
 
 </p>
-![](https://komarev.com/ghpvc/?username=dev-kay1)
+# Profile Visitors 
+
+![Visitor Count](https://profile-counter.glitch.me/dev-kay1/count.svg)
