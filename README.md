@@ -47,6 +47,7 @@ style="vertical-align:top; margin: 4px">
   
 
 </p>
-# Profile Visitors 
+
+# Profile Visitors
 
 ![Visitor Count](https://profile-counter.glitch.me/dev-kay1/count.svg)
