@@ -48,7 +48,5 @@ style="vertical-align:top; margin: 4px">
 
 </p>
 
-# Profile Visitors
-![](https://api.visitorbadge.io/api/visitors?path=Agucchristopher%20&label=Number%20of%20visitors%20&labelColor=%2337d67a&countColor=%23263759&style=flat)
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Agucchristopher%20&label=Number%20of%20visitors%20&labelColor=%2337d67a&countColor=%23263759&style=flat)
-![Visitor Count](https://profile-counter.glitch.me/dev-kay1/count.svg)
+# More
+![](https://api.visitorbadge.io/api/visitors?path=Agucchristopher%20&label=visits%20&labelColor=%2337d67a&countColor=%23263759&style=flat)
