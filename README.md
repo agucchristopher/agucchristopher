@@ -1,5 +1,5 @@
-Hi, I’m Agu C. Christopher
-# Skills
+<h3 align="left">Hi, I’m Agu C. Christopher</h3>
+<h3 align="left">Skills</h3>
 - Website Development,
 - Mobile App Development 
 
