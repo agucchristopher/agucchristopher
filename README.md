@@ -2,7 +2,19 @@ Hi, I’m Agu C. Christopher
 # Skills
 - Website Development,
 - Mobile App Development 
-# Language and Tools
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="tobithedev" height="30" width="40" /></a>
+<a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tobithedev" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/agu-christopher-2531b0233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tobithedev" height="30" width="40" /></a>
+<a href="https://instagram.com/agucchristopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tobithealpha" height="30" width="40" /></a>
+<a href="https://medium.com/@agucchristopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tobithedev" height="30" width="40" /></a>
+<a href="https://twitter.com/agucchristophe1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tobithealpha" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/agucchristopher/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tobithedev360" height="30" width="40" /></a>
+</p>
+
+<h3 align="left"> Language and Tools </h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
@@ -48,5 +60,13 @@ style="vertical-align:top; margin: 4px">
 
 </p>
 
-# More
-![](https://api.visitorbadge.io/api/visitors?path=Agucchristopher%20&label=visits%20&labelColor=%2337d67a&countColor=%23263759&style=flat)
+<h3 align="left"> Stats </h3>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agucchristopher&show_icons=true&locale=en&layout=compact" alt="agu" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agucchristopher&show_icons=true&locale=en" alt="Agu" /></p>
+
+
+<h3 align="left"> More </h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agucchristopher&label=Profile%20views&color=0e75b6&style=flat" alt="dev" /> </p>
+<a href="https://wakatime.com/@0c76e0d7-5b52-47a6-8ab8-fa3643e3aab3"><img src="https://wakatime.com/badge/user/0c76e0d7-5b52-47a6-8ab8-fa3643e3aab3.svg" alt="Total time coded since Jan 9 2022" /></a>
