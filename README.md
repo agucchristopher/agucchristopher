@@ -73,8 +73,7 @@ style="vertical-align:top; margin: 4px">
 
 <h3 align="left"> More </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agucchristopher&label=Profile%20views&color=0e75b6&style=flat" alt="dev" /> </p>
-[!wakatime](https://wakatime.com/badge/user/a7f529d2-8e0c-44f4-9f25-0cc5e2f07f4a.svg) 
-[!wakatime](https://wakatime.com/@a7f529d2-8e0c-44f4-9f25-0cc5e2f07f4a)
+[![wakatime](https://wakatime.com/badge/user/a7f529d2-8e0c-44f4-9f25-0cc5e2f07f4a.svg)](https://wakatime.com/@a7f529d2-8e0c-44f4-9f25-0cc5e2f07f4a)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agucchristopher" alt="agucchristopher" /></a> </p>
 
