@@ -77,7 +77,6 @@ style="vertical-align:top; margin: 4px">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agucchristopher" alt="agucchristopher" /></a> </p>
 
-[!Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=agucchristopher&theme=dracula) 
-[](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=agucchristopher&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agucchristopher)](https://git.io/streak-stats)
