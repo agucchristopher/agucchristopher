@@ -1,7 +1,7 @@
 <h3 align="left">Hi, I’m Agu C. Christopher</h3>
 <h3 align="left">Skills</h3>
 
-``Website Development``
+``Web Development``
 
 ``Mobile App Development``
 
